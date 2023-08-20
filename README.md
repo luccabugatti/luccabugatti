@@ -3,9 +3,9 @@
 
  👨‍💻 Sou estudante de Ciência da Computação.
 
- 💻 Estou trabalhando como Desenvolvedor Java atualmente.
+ 💻 Estou atualmente trabalhando como Desenvolvedor Java.
 
- 🎥 No meu tempo livre gosto de jogar e ver muitos filmes.
+ 🎥 No meu tempo livre gosto de jogar e ver filmes.
 
 ## Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lbugattilive@gmail.com)
