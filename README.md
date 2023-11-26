@@ -5,8 +5,6 @@
 
  💻 Estou atualmente trabalhando como Desenvolvedor Java.
 
- 🎥 No meu tempo livre gosto de jogar e ver filmes.
-
 ## Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lbugattilive@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-bugatti/)
